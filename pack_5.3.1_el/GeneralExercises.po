@@ -55,93 +55,93 @@ msgstr "Πνευματικά δικαιώματα © 2007-2012 Πρότζεκτ 
 
 #: GeneralExercises.cpp:7
 msgid "Cover page"
-msgstr ""
+msgstr "Εξώφυλλο"
 
 #: GeneralExercises.cpp:50
 msgid ""
 "Exercise: Identify a key signature or indicate the number of accidentals it "
 "has"
-msgstr ""
+msgstr "Άσκηση: Αναγνώρισε οπλισμό ή δείξε πόσες αλλοιώσεις έχει"
 
 #: GeneralExercises.cpp:58
 msgid "Exercise: Identify the cadence shown"
-msgstr ""
+msgstr "Άσκηση: Αναγνώρισε τη δοσμένη πτώση"
 
 #: GeneralExercises.cpp:56
 msgid "Exercise: Identify the scale shown"
-msgstr ""
+msgstr "Άσκηση: Αναγνώρισε τη δοσμένη κλίμακα"
 
 #: GeneralExercises.cpp:54
 msgid "Exercise: Identify the type of the shown chord"
-msgstr ""
+msgstr "Άσκηση: Αναγνώρισε τον τύπο της δοσμένης συγχορδίας"
 
 #: GeneralExercises.cpp:47
 msgid "Exercise: Listen a cadence and identify its type"
-msgstr ""
+msgstr "Άσκηση: Άκουσε μια πτώση και αναγνώρισε τον τύπο της"
 
 #: GeneralExercises.cpp:41
 msgid "Exercise: Listen a chord and identify its type"
-msgstr ""
+msgstr "Άσκηση: Άκουσε μια συγχορδία και αναγνώρισε τον τύπο της"
 
 #: GeneralExercises.cpp:43
 msgid "Exercise: Listen a scale and identify its type"
-msgstr ""
+msgstr "Άσκηση: Άκουσε μια κλίμακα και αναγνώρισε τον τύπο της"
 
 #: GeneralExercises.cpp:37
 msgid "Exercise: Listen an interval and identify it"
-msgstr ""
+msgstr "Άσκηση: Άκουσε ένα διάστημα και αναγνώρισε το"
 
 #: GeneralExercises.cpp:45
 msgid "Exercise: Listen note A4 and chords I-IV-V-I and identify the tonality"
-msgstr ""
+msgstr "Άσκηση: Άκουσε το φθόγγο Λα της 4ης οκτάβας και τις συγχορδίες I-IV-V-I και αναγνώρισε την τονικότητα"
 
 #: GeneralExercises.cpp:39
 msgid "Exercise: Listen notes and identify them"
-msgstr ""
+msgstr "Άσκηση: Άκουσε φθόγγους και αναγνώρισέ τους"
 
 #: GeneralExercises.cpp:35
 msgid "Exercise: Listen two intervals and identify which one is greater"
-msgstr ""
+msgstr "Άσκηση: Άκουσε δύο διαστήματα και αναγνώρισέ ποιό είναι το μεγαλύτερο"
 
 #: GeneralExercises.cpp:16
 msgid "Exercises for aural training"
-msgstr ""
+msgstr "Ασκήσεις ακουστικής εξάσκησης"
 
 #: GeneralExercises.cpp:24
 msgid "Exercises to practise theory"
-msgstr ""
+msgstr "Ασκήσης εξάσκησης στη θεωρία"
 
 #: GeneralExercises.cpp:11
 msgid "General exercises"
-msgstr ""
+msgstr "Γενικές ασκήσεις"
 
 #: GeneralExercises.cpp:12
 msgid "General exercises, customizable to suit your needs at any moment."
-msgstr ""
+msgstr "Γενικές ασκήσεις, που ρυθμίζονται για να συνάδουν με τις ανάγκες σου."
 
 #: GeneralExercises.cpp:27 GeneralExercises.cpp:52
 msgid "Interval's construction"
-msgstr ""
+msgstr "Κατασκευή διαστήματος"
 
 #: GeneralExercises.cpp:26 GeneralExercises.cpp:51
 msgid "Interval's identification"
-msgstr ""
+msgstr "Αναγνώριση διαστήματος"
 
 #: GeneralExercises.cpp:17 GeneralExercises.cpp:34
 msgid "Intervals' comparison"
-msgstr ""
+msgstr "Σύγκριση διαστήματος"
 
 #: GeneralExercises.cpp:18 GeneralExercises.cpp:36
 msgid "Intervals' identification"
-msgstr ""
+msgstr "Αναγνώριση διαστήματος"
 
 #: GeneralExercises.cpp:14
 msgid "Introduction to general exercises"
-msgstr ""
+msgstr "Εισαγωγή στις γενικές ασκήσεις"
 
 #: GeneralExercises.cpp:25 GeneralExercises.cpp:49
 msgid "Key signatures' identification"
-msgstr ""
+msgstr "Αναγνώριση οπλισμών"
 
 #: GeneralExercises.cpp:3
 msgid "Licensed under the Creative Commons Attribution/Share-Alike License;"
@@ -149,15 +149,15 @@ msgstr ""
 
 #: GeneralExercises.cpp:38
 msgid "Notes identification"
-msgstr ""
+msgstr "Αναγνώριση φθόγγων"
 
 #: GeneralExercises.cpp:19
 msgid "Notes' identification"
-msgstr ""
+msgstr "Αναγνώριση φθόγγου"
 
 #: GeneralExercises.cpp:31 GeneralExercises.cpp:59
 msgid "Other exercises"
-msgstr ""
+msgstr "Άλλες ασκήσεις"
 
 #: GeneralExercises.cpp:13
 msgid ""
@@ -170,40 +170,41 @@ msgstr ""
 
 #: GeneralExercises.cpp:9
 msgid "References"
-msgstr ""
+msgstr "Παραπομπές"
 
 #: GeneralExercises.cpp:21 GeneralExercises.cpp:29 GeneralExercises.cpp:42
 #: GeneralExercises.cpp:55
 msgid "Scales' identification"
-msgstr ""
+msgstr "Αναγνώριση κλίμακας"
 
 #: GeneralExercises.cpp:2
 msgid "Send your comments and suggestions to the LenMus team (www.lenmus.org)"
-msgstr ""
+msgstr "Στείλε τα σχόλια και τις εισηγήσεις σου στην ομάδα του LenMus (www.lenmus.org)"
 
 #: GeneralExercises.cpp:48
 msgid "Theory exercises"
-msgstr ""
+msgstr "Ασκήσεις θεωρίας"
 
 #: GeneralExercises.cpp:10
 msgid "This lesson is based on materials from:"
-msgstr ""
+msgstr "Αυτό το μαθημα βασίζεται σε υλικό από:"
 
 #: GeneralExercises.cpp:22 GeneralExercises.cpp:44
 msgid "Tonality identification"
-msgstr ""
+msgstr "Αναγνώριση τονικότητας"
 
 #: GeneralExercises.cpp:8
 msgid ""
 "Translated to #REPLACE BY YOUR LANGUAGE NAME# by #REPLACE BY YOUR NAME#."
-msgstr ""
+msgstr "Μεταφρασμένο στην #ΑΝΤΙΚΑΤΑΣΤΗΣΕ ΜΕ ΤΟ ΟΝΟΜΑ ΤΗΣ ΓΛΩΣΣΑΣ ΣΟΥ# από τον/την #ΑΝΤΙΚΑΤΑΣΤΗΣΕ ΜΕ ΤΟ ΟΝΟΜΑ ΣΟΥ#."
 
 #: GeneralExercises.cpp:4
 msgid ""
 "additional terms may apply. See cover page of this eBook for exceptions and "
 "details."
-msgstr ""
+msgstr "ίσως ισχύουν επιπρόσθετοι όροι. Βλέπε στο εξώφυλλο αυτού του ηλεκτρονικού "
+"βιβλίου για εξαιρέσεις και λεπτομέρειες."
 
 #: GeneralExercises.cpp:6
 msgid "the teacher of music"
-msgstr ""
+msgstr "ο δάσκαλος μουσικής"

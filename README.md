@@ -23,5 +23,7 @@ but not "Έχετε την επιλογή"
 - clef
 - mode (λειτουργία ?)
 - credits
+- Licensed under
+- Creative Commons Attribution/Share-Alike License;
 
 
