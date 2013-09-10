@@ -196,7 +196,7 @@ msgstr "Αναγνώριση τονικότητας"
 #: GeneralExercises.cpp:8
 msgid ""
 "Translated to #REPLACE BY YOUR LANGUAGE NAME# by #REPLACE BY YOUR NAME#."
-msgstr "Μεταφρασμένο στην #ΑΝΤΙΚΑΤΑΣΤΗΣΕ ΜΕ ΤΟ ΟΝΟΜΑ ΤΗΣ ΓΛΩΣΣΑΣ ΣΟΥ# από τον/την #ΑΝΤΙΚΑΤΑΣΤΗΣΕ ΜΕ ΤΟ ΟΝΟΜΑ ΣΟΥ#."
+msgstr "Μεταφρασμένο στην #ΑΝΤΙΚΑΤΑΣΤΗΣΕ ΜΕ ΤΟ ΟΝΟΜΑ ΤΗΣ ΓΛΩΣΣΑΣ ΣΟΥ# γλώσσα από τον/την #ΑΝΤΙΚΑΤΑΣΤΗΣΕ ΜΕ ΤΟ ΟΝΟΜΑ ΣΟΥ#."
 
 #: GeneralExercises.cpp:4
 msgid ""

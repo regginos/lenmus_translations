@@ -96,7 +96,7 @@ msgstr "&Ανιόν"
 
 #: ../xrc/xrc_strings.cpp:303
 msgid "&Both"
-msgstr ""
+msgstr "&Αμφότερα"
 
 #: ../src/options/lenmus_options_dlg.cpp:239 ../xrc/xrc_strings.cpp:128
 #: ../xrc/xrc_strings.cpp:194 ../xrc/xrc_strings.cpp:200
@@ -105,7 +105,7 @@ msgstr "&Ακύρωση"
 
 #: ../src/app/lenmus_main_frame.cpp:652
 msgid "&Close\tCtrl+W"
-msgstr ""
+msgstr "&Κλείσιμο\tCtrl+W"
 
 #: ../xrc/xrc_strings.cpp:302
 msgid "&Descending"
@@ -126,83 +126,83 @@ msgstr "&Βοήθεια"
 
 #: ../src/options/lenmus_toolbar_opt_panel.cpp:110 ../xrc/xrc_strings.cpp:167
 msgid "&Large"
-msgstr ""
+msgstr "&Μεγάλο"
 
 #: ../src/options/lenmus_toolbar_opt_panel.cpp:110 ../xrc/xrc_strings.cpp:166
 msgid "&Medium"
-msgstr ""
+msgstr "&Μέτριο"
 
 #: ../src/app/lenmus_main_frame.cpp:620
 msgid "&New\tCtrl+N"
-msgstr ""
+msgstr "&Νέο\tCtrl+N"
 
 #: ../src/options/lenmus_toolbar_opt_panel.cpp:121 ../xrc/xrc_strings.cpp:169
 msgid "&No labels"
-msgstr ""
+msgstr "&Χωρίς ετικέττες"
 
 #: ../src/app/lenmus_main_frame.cpp:622
 msgid "&Open ...\tCtrl+O"
-msgstr ""
+msgstr "&Άνοιγμα ...\tCtrl+O"
 
 #: ../src/app/lenmus_main_frame.cpp:926
 msgid "&Options"
-msgstr ""
+msgstr "&Επιλογές"
 
 #: ../xrc/xrc_strings.cpp:381
 msgid "&Play A4 note"
-msgstr ""
+msgstr "&Παίξε το φθόγγο Λα 4ης οκτάβας"
 
 #: ../src/app/lenmus_main_frame.cpp:868
 msgid "&Preferences"
-msgstr ""
+msgstr "&Προτιμήσεις"
 
 #: ../src/app/lenmus_main_frame.cpp:656
 msgid "&Print ...\tCtrl+P"
-msgstr ""
+msgstr "&Εκτύπωση ...\tCtrl+P"
 
 #: ../src/app/lenmus_main_frame.cpp:662
 msgid "&Quit\tCtrl+Q"
-msgstr ""
+msgstr "&Κλείσιμο\tCtrl+Q"
 
 #: ../src/app/lenmus_main_frame.cpp:700
 msgid "&Redo"
-msgstr ""
+msgstr "&Επανάληψη"
 
 #: ../src/app/lenmus_main_frame.cpp:855
 msgid "&Run Midi wizard"
-msgstr ""
+msgstr "&Τρέξε τον MIDI διάλογο"
 
 #: ../src/app/lenmus_main_frame.cpp:648
 msgid "&Save\tCtrl+S"
-msgstr ""
+msgstr "&Φύλαξη\tCtrl+S"
 
 #: ../src/options/lenmus_toolbar_opt_panel.cpp:110 ../xrc/xrc_strings.cpp:165
 msgid "&Small"
-msgstr ""
+msgstr "&Μικρό"
 
 #: ../src/app/lenmus_main_frame.cpp:919
 msgid "&Sound"
-msgstr ""
+msgstr "&Ήχος"
 
 #: ../src/app/lenmus_main_frame.cpp:709
 msgid "&Status bar"
-msgstr ""
+msgstr "&Μπάρα κατάστασης"
 
 #: ../src/app/lenmus_main_frame.cpp:859
 msgid "&Test sound"
-msgstr ""
+msgstr "&Έλεγχος ήχου"
 
 #: ../src/app/lenmus_main_frame.cpp:712
 msgid "&Tool box"
-msgstr ""
+msgstr "&Εργαλεία"
 
 #: ../src/app/lenmus_main_frame.cpp:698
 msgid "&Undo"
-msgstr ""
+msgstr "&Ακύρωση"
 
 #: ../xrc/xrc_strings.cpp:32
 msgid "&Use only notes from key signature"
-msgstr ""
+msgstr "&Χρήση μόνο φθόγγων από τον οπλισμό"
 
 #: ../src/app/lenmus_main_frame.cpp:915
 msgid "&View"
@@ -210,15 +210,15 @@ msgstr ""
 
 #: ../src/app/lenmus_main_frame.cpp:897
 msgid "&Visit LenMus website"
-msgstr ""
+msgstr "&Επίσκεξη στην ιστοσελίδα του LenMus"
 
 #: ../src/app/lenmus_main_frame.cpp:716
 msgid "&Welcome page"
-msgstr ""
+msgstr "&Σελίδα καλωσορίσματος"
 
 #: ../src/app/lenmus_main_frame.cpp:927
 msgid "&Window"
-msgstr ""
+msgstr "&Παράθυρο"
 
 #: ../src/app/lenmus_main_frame.cpp:925
 msgid "&Zoom"
@@ -1228,27 +1228,27 @@ msgstr ""
 #: ../src/app/lenmus_about_dialog.cpp:156
 #: ../src/app/lenmus_about_dialog.cpp:349
 msgid "Contributors"
-msgstr ""
+msgstr "Συντελεστές"
 
 #: ../src/app/lenmus_main_frame.cpp:1849
 msgid "Counters & options"
-msgstr ""
+msgstr "Μετρητές και επιλογές"
 
 #: ../src/dialogs/lenmus_dlg_counters.cpp:245
 msgid "Counters for Team A"
-msgstr ""
+msgstr "Μετρητές για την ομάδα Α"
 
 #: ../src/dialogs/lenmus_dlg_counters.cpp:245
 msgid "Counters for Team B"
-msgstr ""
+msgstr "Μετρητές για την ομάδα Β"
 
 #: ../installer/msw/locale/installer-strings.cpp:19
 msgid "Create a folder containing some examples of music scores"
-msgstr ""
+msgstr "Δημιουργία φακέλλου με δείγματα μουσικών παρτιτούρων"
 
 #: ../installer/msw/locale/installer-strings.cpp:18
 msgid "Create a shorcut icon on the desktop"
-msgstr ""
+msgstr "Δημιουργία εικονιδίου συντόμευσης στην επιφάνεια γραφείου"
 
 #: ../src/exercises/ctrols/lenmus_idfy_notes_ctrol.cpp:198
 #: ../src/exercises/ctrols/lenmus_theo_intervals_ctrol.cpp:496
@@ -1365,19 +1365,19 @@ msgstr "Ελαττωμένη συγχορδία"
 
 #: ../src/app/lenmus_main_frame.cpp:883
 msgid "Display information about program version and credits"
-msgstr ""
+msgstr "Πληροφόρηση σχετικά με την εκδοχή του προγράμματος και συντελεστές"
 
 #: ../xrc/xrc_strings.cpp:250 ../xrc/xrc_strings.cpp:304
 msgid "Display key signature"
-msgstr ""
+msgstr "Επίδειξη οπλισμού"
 
 #: ../src/app/lenmus_status_bar.cpp:130
 msgid "Display page and time referred to caret position"
-msgstr ""
+msgstr "Επίδειξη σελίδας και χρόνου συσχετισμένου με τη θέση του δείκτη"
 
 #: ../src/app/lenmus_status_bar.cpp:126
 msgid "Display page and time referred to mouse position"
-msgstr ""
+msgstr "Επίδειξη σελίδας και χρόνου συσχετισμένου με τη θέση του ποντικιού"
 
 #: ../src/app/lenmus_main_frame.cpp:847
 msgid "Do count off"
@@ -1393,63 +1393,63 @@ msgstr ""
 
 #: ../src/auxmusic/lenmus_chord.cpp:781
 msgid "Dominant 11th"
-msgstr ""
+msgstr "Δεσπόζουσα μεθ' 11ης"
 
 #: ../src/auxmusic/lenmus_chord.cpp:786
 msgid "Dominant 13th"
-msgstr ""
+msgstr "Δεσπόζουσα με' 13η"
 
 #: ../src/exercises/ctrols/lenmus_idfy_chords_ctrol.cpp:110
 #: ../src/auxmusic/lenmus_chord.cpp:762 ../xrc/xrc_strings.cpp:216
 msgid "Dominant 7th"
-msgstr ""
+msgstr "Δεσπόζουσα μεθ' 7ης"
 
 #: ../src/auxmusic/lenmus_chord.cpp:776
 msgid "Dominant ninth"
-msgstr ""
+msgstr "Δεσπόζουσα μεθ' 9ης"
 
 #: ../src/exercises/ctrols/lenmus_idfy_scales_ctrol.cpp:151
 #: ../src/exercises/ctrols/lenmus_idfy_scales_ctrol.cpp:157
 #: ../src/auxmusic/lenmus_scale.cpp:168 ../xrc/xrc_strings.cpp:263
 #: ../xrc/xrc_strings.cpp:269
 msgid "Dorian"
-msgstr ""
+msgstr "Δωρικός"
 
 #: ../src/app/toolbox/lenmus_tool_page_notes.cpp:542
 msgid "Dots"
-msgstr ""
+msgstr "Τελείες (στιγμές)"
 
 #: ../xrc/xrc_strings.cpp:132
 msgid "Dotted"
-msgstr ""
+msgstr "Παρεστιγμένο"
 
 #: ../src/app/toolbox/lenmus_tool_page_barlines.cpp:240
 msgid "Double barline"
-msgstr ""
+msgstr "Διπλή διαστολή"
 
 #: ../src/exercises/ctrols/lenmus_theo_intervals_ctrol.cpp:488
 msgid "Double flat"
-msgstr ""
+msgstr "Διπλή ύφεση"
 
 #: ../src/app/toolbox/lenmus_tool_page_barlines.cpp:245
 msgid "Double repetition"
-msgstr ""
+msgstr "Διπλή επανάληψη"
 
 #: ../src/exercises/ctrols/lenmus_theo_intervals_ctrol.cpp:492
 msgid "Double sharp"
-msgstr ""
+msgstr "Διπλή δίεση"
 
 #: ../xrc/xrc_strings.cpp:193
 msgid "Download selected items"
-msgstr ""
+msgstr "Κατέβασε τα επιλεγμένα"
 
 #: ../src/app/toolbox/lenmus_tool_page_notes.cpp:153
 msgid "Duration"
-msgstr ""
+msgstr "Διάρκεια"
 
 #: ../src/app/lenmus_about_dialog.cpp:392
 msgid "Dutch"
-msgstr ""
+msgstr "Ολλανδικά"
 
 #: ../src/exercises/ctrols/lenmus_idfy_notes_ctrol.cpp:200
 #: ../src/exercises/ctrols/lenmus_theo_intervals_ctrol.cpp:497
@@ -1559,42 +1559,42 @@ msgstr ""
 
 #: ../src/app/lenmus_main_frame.cpp:827 ../src/app/lenmus_main_frame.cpp:1568
 msgid "Enlarge image size"
-msgstr ""
+msgstr "Μεγάλωμα μεγέθους εικόνας"
 
 #: ../src/app/lenmus_main_frame.cpp:2433
 msgid "Enter command:"
-msgstr ""
+msgstr "Εισαγωγή εντολής:"
 
 #: ../src/widgets/MusicSymbolList.cpp:168
 #: ../src/widgets/lenmus_msg_box.cpp:176
 msgid "Error"
-msgstr ""
+msgstr "Σφάλμα"
 
 #: ../src/updater/lenmus_updater.cpp:190
 msgid "Error checking for updates"
-msgstr ""
+msgstr "Σφάλμα κατά την εύρεση ενημερώσεων"
 
 #: ../installer/msw/locale/installer-strings.cpp:24
 msgid "Error copying examples of music scores"
-msgstr ""
+msgstr "Σφάλμα κατά την αντιγραφή δειγμάτων παρτιτούρων"
 
 #: ../installer/msw/locale/installer-strings.cpp:22
 msgid "Error copying program files"
-msgstr ""
+msgstr "Σφάλμα κατά την αντιγραφή αρχείων προγράμματος"
 
 #: ../installer/msw/locale/installer-strings.cpp:23
 msgid "Error creating shortcut on desktop"
-msgstr ""
+msgstr "Σφάλμα κατά τη δημιουργία συντόμευσης στη επιφάνεια γραφείου"
 
 #: ../src/app/lenmus_logger.cpp:205 ../src/app/lenmus_main_frame.cpp:2608
 #: ../src/app/lenmus_main_frame.cpp:2614
 msgid "Error message"
-msgstr ""
+msgstr "Μύνημα σφάλματος"
 
 #: ../src/dialogs/lenmus_dlg_books.cpp:138
 #, c-format
 msgid "Error when trying to move to folder %s"
-msgstr ""
+msgstr "Σφάλμα κατά την μετακίνηση στον κατάλογο %s"
 
 #: ../src/app/lenmus_main_frame.cpp:1122
 msgid "Errors in file "
@@ -1606,26 +1606,26 @@ msgstr "Εκτίμηση χρόνου μέχρι να τελειώσει αυτ�
 
 #: ../src/exercises/constrains/lenmus_constrains.cpp:42
 msgid "Exam"
-msgstr ""
+msgstr "Εξέταση"
 
 #: ../src/exercises/dialogs/lenmus_dlg_exercise_mode.cpp:115
 msgid "Exam mode"
-msgstr ""
+msgstr "Λειτουργία εξέτασης"
 
 #: ../installer/msw/locale/installer-strings.cpp:15
 msgid "Examples of music scores"
-msgstr ""
+msgstr "Δείματα παρτιτούρων"
 
 #: ../src/exercises/ctrols/lenmus_exercise_ctrol.cpp:259
 #: ../src/exercises/ctrols/lenmus_theo_music_reading_ctrol.cpp:123
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_notes.cpp:77
 msgid "Exercise options"
-msgstr ""
+msgstr "Επιλογές άσκησης"
 
 #: ../src/exercises/ctrols/lenmus_generators.cpp:1094
 #: ../src/exercises/ctrols/lenmus_generators.cpp:1097
 msgid "Exercise will be changed to 'Practise' mode."
-msgstr ""
+msgstr "Ή άσκηση θα αλλάξει σε 'λειτουργία εξάσκησης'"
 
 #: ../src/options/lenmus_other_opt_panel.cpp:83
 msgid "Exercises"
@@ -1679,24 +1679,24 @@ msgstr "κλειδί του Φα της 3ης γραμμής"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_notes.cpp:289
 msgid "F clef in 4th line (bass)"
-msgstr ""
+msgstr "κλειδί του Φα της 4ης γραμμής"
 
 #: ../src/app/toolbox/lenmus_tool_page_clefs.cpp:210
 #: ../src/app/toolbox/lenmus_tool_page_clefs.cpp:291
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_theo_intervals.cpp:207
 #: ../xrc/xrc_strings.cpp:75
 msgid "F clef on 3rd line"
-msgstr ""
+msgstr "κλειδί του Φα της 3ης γραμμής"
 
 #: ../src/app/toolbox/lenmus_tool_page_clefs.cpp:209
 #: ../src/app/toolbox/lenmus_tool_page_clefs.cpp:290
 msgid "F clef on 4th line"
-msgstr ""
+msgstr "κλειδί του Φα της 4ης γραμμής"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_theo_intervals.cpp:203
 #: ../xrc/xrc_strings.cpp:72
 msgid "F clef on 4th line (bass)"
-msgstr ""
+msgstr "κλειδί του Φα της 4ης γραμμής"
 
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:121
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:439

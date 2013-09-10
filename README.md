@@ -22,8 +22,9 @@ but not "Έχετε την επιλογή"
 - beam
 - clef
 - mode (λειτουργία ?)
-- credits
+- credits (συντελεστές ?)
 - Licensed under
 - Creative Commons Attribution/Share-Alike License;
+- desktop (επιφάνεια γραφείου ?)
 
 
