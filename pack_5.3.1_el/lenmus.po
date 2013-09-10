@@ -1701,172 +1701,172 @@ msgstr "κλειδί του Φα της 4ης γραμμής"
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:121
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:439
 msgid "F major"
-msgstr ""
+msgstr "Φα μείζονα"
 
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:134
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:457
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_tonality.cpp:277
 #: ../src/auxmusic/lenmus_utilities.cpp:682 ../xrc/xrc_strings.cpp:373
 msgid "F minor"
-msgstr ""
+msgstr "Φα ελάσσονα"
 
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:440
 msgid "F sharp major"
-msgstr ""
+msgstr "Φα δίεση μείζονα"
 
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:458
 msgid "F sharp minor"
-msgstr ""
+msgstr "Φα δίεση ελάσσονα"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_tonality.cpp:182
 #: ../xrc/xrc_strings.cpp:353
 msgid "F# Major"
-msgstr ""
+msgstr "Φα#" Μείζονα
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_theo_intervals.cpp:288
 #: ../xrc/xrc_strings.cpp:41 ../xrc/xrc_strings.cpp:114
 #: ../xrc/xrc_strings.cpp:233 ../xrc/xrc_strings.cpp:289
 msgid "F# Major / D# minor"
-msgstr ""
+msgstr "Φα# Μείζονα / Ρε# ελάσσονα"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_tonality.cpp:240
 #: ../xrc/xrc_strings.cpp:365
 msgid "F# minor"
-msgstr ""
+msgstr "Φα# ελάσσονα"
 
 #: ../src/exercises/ctrols/lenmus_idfy_notes_ctrol.cpp:202
 msgid "F#/Gb"
-msgstr ""
+msgstr "Φα#/Σολb"
 
 #: ../src/app/lenmus_document_frame.cpp:295
 #, c-format
 msgid "Failed adding book %s"
-msgstr ""
+msgstr "Αποτυχία στη εισαγωγή του βιβλίου %s"
 
 #: ../src/app/toolbox/lenmus_tool_page_symbols.cpp:238
 msgid "Figured bass"
-msgstr ""
+msgstr "Αριθμημένο μπάσο"
 
 #: ../src/dialogs/lenmus_dlg_debug.cpp:199
 msgid "File to save"
-msgstr ""
+msgstr "Αρχείο προς φύλαξη"
 
 #: ../src/app/lenmus_main_frame.cpp:1676 ../src/app/lenmus_main_frame.cpp:1683
 msgid "File tools"
-msgstr ""
+msgstr "Εργαλεία αρχείου"
 
 #: ../src/app/toolbox/lenmus_tool_page_barlines.cpp:241
 msgid "Final barline"
-msgstr ""
+msgstr "Τελική διαστολή"
 
 #: ../src/widgets/Wizard.cpp:130
 msgid "Finish"
-msgstr ""
+msgstr "Τέλος"
 
 #: ../src/exercises/ctrols/lenmus_exercise_ctrol.cpp:898
 msgid "First one greater"
-msgstr ""
+msgstr "Το πρώτο μεγαλύτερο"
 
 #: ../src/app/lenmus_main_frame.cpp:820 ../src/app/lenmus_main_frame.cpp:1591
 #: ../src/app/lenmus_main_frame.cpp:2588
 msgid "Fit page full"
-msgstr ""
+msgstr "Ταίριασμα πλήρους σελίδας"
 
 #: ../src/app/lenmus_main_frame.cpp:823 ../src/app/lenmus_main_frame.cpp:1592
 #: ../src/app/lenmus_main_frame.cpp:2592
 msgid "Fit page width"
-msgstr ""
+msgstr "Ταίριασμα με το πλάτος τηε σελίδας"
 
 #: ../src/exercises/ctrols/lenmus_theo_intervals_ctrol.cpp:489
 msgid "Flat"
-msgstr ""
+msgstr "Ύφεση"
 
 #: ../src/app/lenmus_splash_frame.cpp:100
 msgid "Free software under GNU General Public License, version 3 or later."
-msgstr ""
+msgstr "Δωρεάν/ελεύθερο λογισμικό υπό την Γενική Δημόσια Άδεια GNU, βερσιόν 3 η νεότερη."
 
 #: ../src/app/lenmus_about_dialog.cpp:398
 msgid "French"
-msgstr ""
+msgstr "Γαλλικά"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_notes.cpp:171
 msgid "From this key signature:"
-msgstr ""
+msgstr "Από αυτό τον οπλισμό:"
 
 #: ../src/exercises/ctrols/lenmus_idfy_notes_ctrol.cpp:203
 #: ../src/exercises/ctrols/lenmus_theo_intervals_ctrol.cpp:499
 #: ../src/exercises/ctrols/lenmus_theo_intervals_ctrol.cpp:524
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_notes.cpp:237
 msgid "G"
-msgstr ""
+msgstr "Σολ"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_notes.cpp:241
 msgid "G # / A b"
-msgstr ""
+msgstr "Σολ # / Λα b"
 
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:128
 #: ../src/auxmusic/lenmus_utilities.cpp:676
 msgid "G # minor"
-msgstr ""
+msgstr "Σολ # ελάσσονα"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_tonality.cpp:162
 #: ../src/auxmusic/lenmus_utilities.cpp:656 ../xrc/xrc_strings.cpp:348
 msgid "G Major"
-msgstr ""
+msgstr "Σολ Μείζονα"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_theo_intervals.cpp:268
 #: ../xrc/xrc_strings.cpp:36 ../xrc/xrc_strings.cpp:109
 #: ../xrc/xrc_strings.cpp:228 ../xrc/xrc_strings.cpp:284
 msgid "G Major / E minor"
-msgstr ""
+msgstr "Σολ Μείζονα / Μι ελάσσονα"
 
 #: ../src/auxmusic/lenmus_utilities.cpp:664
 msgid "G b Major"
-msgstr ""
+msgstr "Σολ b Μείζονα"
 
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:116
 msgid "G b major"
-msgstr ""
+msgstr "Σολ b μείζονα"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_theo_intervals.cpp:199
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_notes.cpp:289
 #: ../xrc/xrc_strings.cpp:69
 msgid "G clef (violin)"
-msgstr ""
+msgstr "Κλειδί του Σολ"
 
 #: ../src/app/toolbox/lenmus_tool_page_clefs.cpp:208
 #: ../src/app/toolbox/lenmus_tool_page_clefs.cpp:289
 msgid "G clef on 2nd line"
-msgstr ""
+msgstr "Κλειδί του Σολ της 2ης γραμμής"
 
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:441
 msgid "G flat major"
-msgstr ""
+msgstr "Σολ ύφεση μείζονα"
 
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:108
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:442
 msgid "G major"
-msgstr ""
+msgstr "Σολ μείζονα"
 
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:136
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:459
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_tonality.cpp:285
 #: ../src/auxmusic/lenmus_utilities.cpp:684 ../xrc/xrc_strings.cpp:375
 msgid "G minor"
-msgstr ""
+msgstr "Σολ ελάσσονα"
 
 #: ../src/exercises/ctrols/lenmus_theo_key_sign_ctrol.cpp:460
 msgid "G sharp minor"
-msgstr ""
+msgstr "Σολ δίεση ελάσσονα"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_tonality.cpp:248
 #: ../xrc/xrc_strings.cpp:367
 msgid "G# minor"
-msgstr ""
+msgstr "Σολ# ελάσσονα"
 
 #: ../src/exercises/ctrols/lenmus_idfy_notes_ctrol.cpp:204
 msgid "G#/Ab"
-msgstr ""
+msgstr "Σολ#/Λαb"
 
 #: ../src/app/lenmus_about_dialog.cpp:403
 msgid "Galician"
@@ -1875,38 +1875,38 @@ msgstr ""
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_tonality.cpp:199
 #: ../xrc/xrc_strings.cpp:356
 msgid "Gb Major"
-msgstr ""
+msgstr "Σολ Μείζονα"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_theo_intervals.cpp:305
 #: ../xrc/xrc_strings.cpp:44 ../xrc/xrc_strings.cpp:117
 #: ../xrc/xrc_strings.cpp:236 ../xrc/xrc_strings.cpp:292
 msgid "Gb Major / Eb minor"
-msgstr ""
+msgstr "Σολb Μείζονα / Μιb ελάσσονα"
 
 #: ../src/options/lenmus_other_opt_panel.cpp:85
 msgid "Generate right/wrong sounds when clicking an answer button"
-msgstr ""
+msgstr "Παραγωγή ήχων σωστού/λάθους όταν κάνεις κλικ σε κουμπί απάντησης"
 
 #: ../src/app/lenmus_about_dialog.cpp:408
 msgid "German"
-msgstr ""
+msgstr "Γερμανικά"
 
 #: ../src/dialogs/lenmus_dlg_counters.cpp:478
 msgid "Global:"
-msgstr ""
+msgstr "Καθολικά:"
 
 #: ../src/exercises/ctrols/lenmus_exercise_ctrol.cpp:272
 #: ../src/exercises/ctrols/lenmus_theo_music_reading_ctrol.cpp:178
 msgid "Go back to theory"
-msgstr ""
+msgstr "Πίσω στη θεωρία"
 
 #: ../src/exercises/ctrols/lenmus_idfy_scales_ctrol.cpp:202
 msgid "Gregorian modes:"
-msgstr ""
+msgstr "Γρηγοριανοί τρόποι:"
 
 #: ../xrc/xrc_strings.cpp:266
 msgid "Gregorian scales"
-msgstr ""
+msgstr "Γρηγοριανές κλίμακες"
 
 #: ../src/exercises/ctrols/lenmus_idfy_cadences_ctrol.cpp:192
 #: ../src/auxmusic/lenmus_cadence.cpp:1429
@@ -1919,11 +1919,11 @@ msgstr ""
 #: ../src/auxmusic/lenmus_cadence.cpp:1436
 #: ../src/auxmusic/lenmus_cadence.cpp:1437 ../xrc/xrc_strings.cpp:394
 msgid "Half cadence"
-msgstr ""
+msgstr "Μισή πτώση"
 
 #: ../xrc/xrc_strings.cpp:326
 msgid "Half cadences"
-msgstr ""
+msgstr "Μισές πτώσεις"
 
 #: ../src/exercises/ctrols/lenmus_idfy_chords_ctrol.cpp:113
 msgid "Half dim. 7th"
@@ -1935,49 +1935,49 @@ msgstr ""
 
 #: ../xrc/xrc_strings.cpp:140
 msgid "Half note"
-msgstr ""
+msgstr "Φθόγγος μισού"
 
 #: ../xrc/xrc_strings.cpp:147
 msgid "Half rest"
-msgstr ""
+msgstr "Παύση μισού"
 
 #: ../src/exercises/ctrols/lenmus_idfy_scales_ctrol.cpp:152
 #: ../xrc/xrc_strings.cpp:264
 msgid "Harmonic"
-msgstr ""
+msgstr "Αρμονικός"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_theo_intervals.cpp:407
 #: ../xrc/xrc_strings.cpp:57
 msgid "Harmonic (simultaneous notes)"
-msgstr ""
+msgstr "Αρμονικά (ταυτόνοι φθόγγοι)"
 
 #: ../src/app/toolbox/lenmus_tool_page_symbols.cpp:244
 msgid "Harmony"
-msgstr ""
+msgstr "Αρμονία"
 
 #: ../src/widgets/Wizard.cpp:115
 msgid "Help"
-msgstr ""
+msgstr "Βοήθεια"
 
 #: ../src/app/lenmus_main_frame.cpp:1496
 msgid "Help button"
-msgstr ""
+msgstr "Κουμπί βοήθειας"
 
 #: ../src/app/lenmus_main_frame.cpp:713
 msgid "Hide/show edition tool box window"
-msgstr ""
+msgstr "Κρύψε/δείξε παράθυρο εργαλείων επεξεργασίας"
 
 #: ../src/app/lenmus_main_frame.cpp:710
 msgid "Hide/show the status bar"
-msgstr ""
+msgstr "Κρύψε/δείξε τη μπάρα κατάστασης"
 
 #: ../src/app/lenmus_main_frame.cpp:708
 msgid "Hide/show the tools bar"
-msgstr ""
+msgstr "Κρύψε/δείξε τη μπάρα εργαλείων"
 
 #: ../src/app/lenmus_main_frame.cpp:717
 msgid "Hide/show welcome page"
-msgstr ""
+msgstr "Κρύψε/δείξε την αρχική σελίδα καλωσορίσματος"
 
 #: ../xrc/xrc_strings.cpp:181
 msgid "Host:"
@@ -1985,55 +1985,55 @@ msgstr ""
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_notes.cpp:305
 msgid "How many octaves"
-msgstr ""
+msgstr "Πόσες οκτάβες"
 
 #: ../xrc/xrc_strings.cpp:380
 msgid "How to show key signature?"
-msgstr ""
+msgstr "Πώς να δείχνει τον οπλισμό;"
 
 #: ../xrc/xrc_strings.cpp:329
 msgid "I --> V"
-msgstr ""
+msgstr "I --> V"
 
 #: ../xrc/xrc_strings.cpp:330
 msgid "I/64 --> V"
-msgstr ""
+msgstr "I/64 --> V"
 
 #: ../xrc/xrc_strings.cpp:332
 msgid "II --> V"
-msgstr ""
+msgstr "II --> V"
 
 #: ../xrc/xrc_strings.cpp:322
 msgid "II/6 --> I"
-msgstr ""
+msgstr "II/6 --> I"
 
 #: ../xrc/xrc_strings.cpp:323
 msgid "IIm/6 --> I"
-msgstr ""
+msgstr "IIm/6 --> I"
 
 #: ../xrc/xrc_strings.cpp:327
 msgid "IIm/6 --> V"
-msgstr ""
+msgstr "IIm/6 --> V"
 
 #: ../xrc/xrc_strings.cpp:320
 msgid "IV --> I"
-msgstr ""
+msgstr "IV --> I"
 
 #: ../xrc/xrc_strings.cpp:328
 msgid "IV --> V"
-msgstr ""
+msgstr "IV --> V"
 
 #: ../xrc/xrc_strings.cpp:321
 msgid "IVm --> I"
-msgstr ""
+msgstr "IVm --> I"
 
 #: ../xrc/xrc_strings.cpp:331
 msgid "IVm/6 --> V (Phrygian half cadence)"
-msgstr ""
+msgstr "IVm/6 --> V (Φρύγια μισή πτώση)"
 
 #: ../src/options/lenmus_toolbar_opt_panel.cpp:112 ../xrc/xrc_strings.cpp:164
 msgid "Icons' size"
-msgstr ""
+msgstr "Μέγεθος εικονιδίου"
 
 #: ../xrc/xrc_strings.cpp:385
 msgid "Identify cadence &group (terminal/transient)"
@@ -2045,27 +2045,27 @@ msgstr ""
 
 #: ../src/exercises/ctrols/lenmus_idfy_notes_ctrol.cpp:401
 msgid "Identify the following note:"
-msgstr ""
+msgstr "Αναγνώρισε τον ακόλουθο φθόγγο:"
 
 #: ../src/exercises/ctrols/lenmus_idfy_cadences_ctrol.cpp:334
 msgid "Identify the next cadence:"
-msgstr ""
+msgstr "Αναγνώρισε την ακόλουθη πτώση:"
 
 #: ../src/exercises/ctrols/lenmus_idfy_chords_ctrol.cpp:331
 msgid "Identify the next chord:"
-msgstr ""
+msgstr "Αναγνώρισε την ακόλουθη συγχορδία:"
 
 #: ../src/exercises/ctrols/lenmus_theo_intervals_ctrol.cpp:795
 msgid "Identify the next interval:"
-msgstr ""
+msgstr "Αναγνώρισε το ακόλουθο διάστημα:"
 
 #: ../src/exercises/ctrols/lenmus_idfy_scales_ctrol.cpp:323
 msgid "Identify the next scale:"
-msgstr ""
+msgstr "Αναγνώρισε την ακόλουθη κλίμακα:"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_idfy_tonality.cpp:64
 msgid "Identify tonality settings"
-msgstr ""
+msgstr "Αναγνώρισε τις ρυθμίσεις τονικότητας"
 
 #: ../src/app/lenmus_about_dialog.cpp:205
 msgid ""
@@ -2073,7 +2073,10 @@ msgid ""
 "feedback in order to continue to improve LenMus. So please visit LenMus "
 "website and give me your bug reports and feature requests. Thank you very "
 "much."
-msgstr ""
+msgstr "Αν βρεις κάποιο λάθος προγράμματος ή έχεις κάποια εισήγηση, παρακαλώ "
+"επικοινώνησε μαζί μου. Βασίζομαι στη αλληλεπίδραση μαζί σου για να συνεχίσω να "
+"βελτιώνω το LenMus. Γιαυτό, παρακαλώ επισκέψου την ιστοσελίδα του LenMus και δώσε "
+"αναφορές λαθών και εισηγήσεις λειτουργιών. Σε ευχαριστώ πολύ."
 
 #: ../src/app/lenmus_about_dialog.cpp:428
 msgid ""
@@ -2081,61 +2084,65 @@ msgid ""
 "help in any other way, you are indeed welcome; please, visit the LenMus "
 "website at www.lenmus.org and leave a message in the 'contact' page. Thank "
 "you and welcome."
-msgstr ""
+msgstr "Αν επιθυμείς να βοηθήσεις στην ανάπτυξη αυτού του προγράμματος "
+"ή να συμμετέχεις στο πρότζεκτ για να βοηθήσεις με άλλο τρόπο, είσαι πολύ "
+"ευπρόσδεκτος. Παρακαλώ, επισκέψου την ιστοσελίδα του LenMus στο www.lenmus.org "
+"και άφησε ένα μύνημα στη σελίδα 'επικοινωνία'. Ευχαριστούμε και καλωσόρισες."
 
 #: ../src/app/lenmus_midi_wizard.cpp:266
 msgid ""
 "If your PC has more than one device, choose one of them. You can test all of "
 "them and choose the one whose sound you prefer."
-msgstr ""
+msgstr "Αν ο υπολογιστής σου έχει περισσότερα από ένα device, επέλεξε ένα από αυτά. "
+"Μπορείς να τα δοκιμάσεις όλα και να διαλέξεις αυτό τον ήχο του οποίου προτιμάς."
 
 #: ../src/exercises/ctrols/lenmus_idfy_cadences_ctrol.cpp:180
 msgid "Imperfect"
-msgstr ""
+msgstr "Ατελής"
 
 #: ../src/auxmusic/lenmus_cadence.cpp:1419 ../xrc/xrc_strings.cpp:317
 #: ../xrc/xrc_strings.cpp:390
 msgid "Imperfect authentic"
-msgstr ""
+msgstr "Ατελής αυθεντική"
 
 #: ../installer/msw/locale/installer-strings.cpp:10
 msgid "Installation canceled"
-msgstr ""
+msgstr "Ακυρώθηκε η εγκατάσταση"
 
 #: ../src/app/lenmus_midi_wizard.cpp:442
 msgid "Instrument:"
-msgstr ""
+msgstr "Όργανο:"
 
 #: ../src/options/lenmus_options_dlg.cpp:168
 msgid "Internet"
-msgstr ""
+msgstr "Διαδύκτιο"
 
 #: ../xrc/xrc_strings.cpp:173
 msgid "Internet connection options"
-msgstr ""
+msgstr "Επιλογές σύνδεσης με το διαδύκτιο"
 
 #: ../xrc/xrc_strings.cpp:2
 msgid "Intervals"
-msgstr ""
+msgstr "Διαστήματα"
 
 #: ../xrc/xrc_strings.cpp:3
 msgid "Intervals to practise"
-msgstr ""
+msgstr "Διαστήματα προς εξάσκηση"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_theo_intervals.cpp:405
 #: ../xrc/xrc_strings.cpp:56
 msgid "Intervals' types"
-msgstr ""
+msgstr "Τύποι διαστημάτων"
 
 #: ../src/app/lenmus_main_frame.cpp:2607
 #, c-format
 msgid "Invalid zooming factor '%s'"
-msgstr ""
+msgstr "Άκυρος συντελεστής zoom '%s'"
 
 #: ../src/exercises/ctrols/lenmus_idfy_scales_ctrol.cpp:156
 #: ../src/auxmusic/lenmus_scale.cpp:167 ../xrc/xrc_strings.cpp:267
 msgid "Ionian"
-msgstr ""
+msgstr "Ιώνιος"
 
 #: ../src/exercises/dialogs/lenmus_dlg_cfg_ear_intervals.cpp:443
 msgid ""

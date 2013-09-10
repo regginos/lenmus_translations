@@ -26,5 +26,7 @@ but not "Έχετε την επιλογή"
 - Licensed under
 - Creative Commons Attribution/Share-Alike License;
 - desktop (επιφάνεια γραφείου ?)
+- Galician
+- terminal/transient
 
 
